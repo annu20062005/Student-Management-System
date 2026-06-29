@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    font-family:Arial;
+}
+h1{
+    text-align:center;
+}
+table{
+    margin:20px auto;
+    border-collapse:collapse;
+}
+td,th{
+    border:1px solid black;
+    padding:10px;
+}
+input,select{
+    padding:8px;
+    border-radius:5px;
+}
+#saveBtn{
+    background-color: green;
+    color:white;
+    padding:8px 15px;
+    border:none;
+    border-radius:5px;
+}
+#deleteBtn{
+    background-color:red;
+    color:white;
+    border:none;
+    padding:5px 10px;
+    border-radius:5px;
+}
